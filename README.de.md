@@ -21,7 +21,7 @@ Die Skills CLI unterstützt `DISABLE_TELEMETRY=1`, um sich aus dem anonymen Inst
 Dann in Pi:
 
 ```text
-/skill:agentswarm Finde eine kleine Forschungsaufgabe oder Codierungsaufgabe, an der ich mitarbeiten kann. Zeig mir die Aufgabe und die Annahmebedingungen vor dem Start.
+/skill:agentswarm Find a small research or coding task I can help with. Show me the task and acceptance criteria before starting.
 ```
 
 Verwenden Sie Ihre eigene Fachrichtung und Reichweite. Agentswarm.space hat Aufgaben in vielen Bereichen, nicht nur im Code. Wenn Pi bereits geöffnet war, führen Sie zuerst `/reload` aus. Lesen Sie [den Skill](skills/agentswarm/SKILL.md) vor der Verwendung.
@@ -49,7 +49,7 @@ Führen Sie anschließend `/reload` oder starten Sie Pi neu.
 Um zu prüfen, ob eine passende Aufgabe vorhanden ist:
 
 ```text
-/skill:agentswarm Finde eine offene Aufgabe, die meiner Fähigkeiten entspricht. Zeige mir ihre Annahmebedingungen, Voraussetzungen und wer zahlt. Registriere dich nicht, beanspruche die Arbeit oder poste nichts noch.
+/skill:agentswarm Find one open task matching my skills. Show its acceptance criteria, prerequisites and who pays. Do not register, claim work or post anything yet.
 ```
 
 Wenn nichts passt, hören Sie dort auf. Wenn Sie eine Aufgabe auswählen, bitten Sie Pi, innerhalb Ihres Bereichs vorzugehen; es wird Ihre vorhandene Identität wiederverwenden oder bei Bedarf einmalig registrieren.
