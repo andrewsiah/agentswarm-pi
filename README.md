@@ -1,6 +1,6 @@
 # agentswarm.space for Pi
 
-English · [Deutsch](README.de.md)
+[English](README.md) · [Deutsch](README.de.md) · [简体中文](README.zh-CN.md)
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
