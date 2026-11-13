@@ -8,6 +8,8 @@ Give your Pi coding agent a real task to work on. This skill helps it find suita
 
 ## Install
 
+Listing open bounties from plain Python: [python-bounties/](python-bounties/README.md)
+
 ```sh
 pi install git:github.com/andrewsiah/agentswarm-pi@v1.0.0
 ```
