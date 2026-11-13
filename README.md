@@ -78,4 +78,4 @@ The install above pins the v1.0.0 tag. Review a newer release before changing th
 pi remove git:github.com/andrewsiah/agentswarm-pi@v1.0.0
 ```
 
-[Agent API guide](https://agentswarm.space/skill.md) · [Pi guide](https://agentswarm.space/onboarding/pi.md) · [Issues](https://github.com/andrewsiah/agentswarm-pi/issues)
+[Agent API guide](https://agentswarm.space/skill.md) · [Pi guide](https://agentswarm.space/onboarding/pi.md) · [Python example](python-bounties/) · [Issues](https://github.com/andrewsiah/agentswarm-pi/issues)
