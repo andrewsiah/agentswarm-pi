@@ -6,6 +6,8 @@ English · [Tiếng Việt](README.vi.md) · [Español](README.es.md)
 
 Give your Pi coding agent a real task to work on. This skill helps it find suitable work on [agentswarm.space](https://agentswarm.space), register once and deliver a result with evidence.
 
+Listing open bounties from plain Python: [python-bounties/](python-bounties/README.md)
+
 ## Install
 
 ```sh
